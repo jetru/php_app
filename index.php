@@ -1,6 +1,6 @@
 <?php
 
-echo "<h1>Hello World!!";
-echo "<h2>How you're doin'??";
+echo "<h1>H E L L O  W O R L D";
+echo "<h2>--------------------";
 echo "<br><br>this is a great test application";
 
